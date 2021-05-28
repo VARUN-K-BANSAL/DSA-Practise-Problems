@@ -1,2 +1,2 @@
 # DSA-Practise-Problems
-This Repository contains all the DSA Questions solved by me for practise.
+This Repository contains all the DSA Codes implemented in c and c++.
